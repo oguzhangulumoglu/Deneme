@@ -8,7 +8,7 @@ namespace Oop3
     {
         public void BiseyYap()
         {
-            throw new NotImplementedException();
+            
         }
 
         public void Hesapla()
